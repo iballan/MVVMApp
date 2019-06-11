@@ -1,0 +1,93 @@
+{
+  "category": [
+    {
+      "id": 1,
+      "name": "Meat",
+      "image": "https://s3.eu-central-1.amazonaws.com/marketyo-premium/jetgross/img/c/5b8ffeb9-d7d0-4d0b-b613-ba0ebea7eb94.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Drink",
+      "image": "https://s3.eu-central-1.amazonaws.com/marketyo-premium/jetgross/img/c/29a1ffce-59a2-4717-87f0-d4a7f07e1ae7.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Bread",
+      "image": "https://s3.eu-central-1.amazonaws.com/marketyo-premium/jetgross/img/c/2398e9fc-1495-457a-af3b-fbc902b3e48c.jpg"
+    }
+  ],
+  "product": [
+    {
+      "id": 1,
+      "name": "Meat Product 1",
+      "categoryId": "1",
+      "image": "https://s3.eu-central-1.amazonaws.com/marketyo-premium/jetgross/img/c/5b8ffeb9-d7d0-4d0b-b613-ba0ebea7eb94.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Meat Product 2",
+      "categoryId": "1",
+      "image": "https://s3.eu-central-1.amazonaws.com/marketyo-premium/jetgross/img/c/5b8ffeb9-d7d0-4d0b-b613-ba0ebea7eb94.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Meat Product 3",
+      "categoryId": "1",
+      "image": "https://s3.eu-central-1.amazonaws.com/marketyo-premium/jetgross/img/c/5b8ffeb9-d7d0-4d0b-b613-ba0ebea7eb94.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Meat Product 4",
+      "categoryId": "1",
+      "image": "https://s3.eu-central-1.amazonaws.com/marketyo-premium/jetgross/img/c/5b8ffeb9-d7d0-4d0b-b613-ba0ebea7eb94.jpg"
+    },
+    {
+      "id": 1,
+      "name": "Product 5",
+      "categoryId": "3",
+      "image": "https://s3.eu-central-1.amazonaws.com/marketyo-premium/jetgross/img/c/29a1ffce-59a2-4717-87f0-d4a7f07e1ae7.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Product 6",
+      "categoryId": "3",
+      "image": "https://s3.eu-central-1.amazonaws.com/marketyo-premium/jetgross/img/c/29a1ffce-59a2-4717-87f0-d4a7f07e1ae7.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Product 7",
+      "categoryId": "3",
+      "image": "https://s3.eu-central-1.amazonaws.com/marketyo-premium/jetgross/img/c/29a1ffce-59a2-4717-87f0-d4a7f07e1ae7.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Product 8",
+      "categoryId": "3",
+      "image": "https://s3.eu-central-1.amazonaws.com/marketyo-premium/jetgross/img/c/29a1ffce-59a2-4717-87f0-d4a7f07e1ae7.jpg"
+    },
+    {
+      "id": 1,
+      "name": "Product 9",
+      "categoryId": "3",
+      "image": "https://s3.eu-central-1.amazonaws.com/marketyo-premium/jetgross/img/c/2398e9fc-1495-457a-af3b-fbc902b3e48c.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Product 10",
+      "categoryId": "3",
+      "image": "https://s3.eu-central-1.amazonaws.com/marketyo-premium/jetgross/img/c/2398e9fc-1495-457a-af3b-fbc902b3e48c.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Product 11",
+      "categoryId": "3",
+      "image": "https://s3.eu-central-1.amazonaws.com/marketyo-premium/jetgross/img/c/2398e9fc-1495-457a-af3b-fbc902b3e48c.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Product 12",
+      "categoryId": "3",
+      "image": "https://s3.eu-central-1.amazonaws.com/marketyo-premium/jetgross/img/c/2398e9fc-1495-457a-af3b-fbc902b3e48c.jpg"
+    }
+  ]
+}
